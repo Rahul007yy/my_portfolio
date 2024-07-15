@@ -237,7 +237,6 @@ img {
   background: var(--gardient-color);
 }
 .btn{
-  margin-top:10px;
   display: inline-block;
   color: #fff;
   padding: 0.75rem 2.5rem;
